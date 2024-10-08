@@ -1,0 +1,2 @@
+# DefaultFPS
+ Create default fps.
